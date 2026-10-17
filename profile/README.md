@@ -1,5 +1,9 @@
 # Draft Patterns
 
+<p align="center">
+  <img src="../assets/draft-patterns-github-avatar.png" alt="Draft Patterns" width="128">
+</p>
+
 **Put your idea on it.**
 
 Draft Patterns is a Ghanaian apparel customisation company for individuals, groups and organisations. We turn artwork, messages and ideas into custom pieces people can wear, carry and share.
