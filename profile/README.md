@@ -1,7 +1,7 @@
 # Draft Patterns
 
 <p align="center">
-  <img src="../assets/draft-patterns-github-avatar.png" alt="Draft Patterns" width="128">
+  <img src="../assets/draft-patterns-product-preview.png" alt="Draft Patterns brand and product preview">
 </p>
 
 **Put your idea on it.**
